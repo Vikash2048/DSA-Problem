@@ -1,3 +1,5 @@
+// count a prime number n*(log(logn))
+
 #include<bits/stdc++.h>
 using namespace std;
 
